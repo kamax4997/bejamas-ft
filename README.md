@@ -1,23 +1,25 @@
-#  Frontend Assessment
+# Frontend Assessment
 
 ## Author
 
-### Name: vicstar
-### Email: freedi.lancer@gmail.com
+### Name: Andrei Strukau
+
+### Email: karlikboroda@gmail.com
 
 ## Live Demo
+
 [Bejamas Frontend Assessment](https://Bejamas-assessment.herokuapp.com/)
 
 ## Description
 
 Created by using [Create React App](https://github.com/facebook/create-react-app) (CRA) _template_ with following libraries including:
 
-  - React v17.0.2
-  - Type Checker - TypeScript
-  - HTML5 & BEM approach
-  - State management - Redux Thunk & Toolkit
-  - Unit Testing - Jest & Enzym
-  - Format & Lint - ESLint & Prettier
+- React v17.0.2
+- Type Checker - TypeScript
+- HTML5 & BEM approach
+- State management - Redux Thunk & Toolkit
+- Unit Testing - Jest & Enzym
+- Format & Lint - ESLint & Prettier
 
 Custom Templates, format, and ESlint configurations.
 
