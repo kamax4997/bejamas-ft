@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Bejamas Frontend Assessment](https://Bejamas-assessment.herokuapp.com/)
+[Bejamas Frontend Assessment](https://bejamas-ft.herokuapp.com/)
 
 ## Description
 
