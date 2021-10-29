@@ -1,0 +1,275 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "Red Bench",
+            "category": "people",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/1223649/pexels-photo-1223649.jpeg",
+                "alt": ""
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 1,
+            "name": "Egg Balloon",
+            "category": "food",
+            "price": 93.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 2,
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 3,
+            "name": "Architecture",
+            "category": "landmarks",
+            "price": 101,
+            "currency": "USD",
+            "dimmentions": {
+                "width": 1020,
+                "height": 1020
+            },
+            "image": {
+                "src": "https://images.pexels.com/photos/6332/coffee-cup-books-home.jpg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 4,
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/1181673/pexels-photo-1181673.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 5,
+            "name": "Red Bench",
+            "category": "people",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/3937174/pexels-photo-3937174.jpeg",
+                "alt": ""
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 6,
+            "name": "Egg Balloon",
+            "category": "food",
+            "price": 93.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/4065885/pexels-photo-4065885.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 7,
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/3945682/pexels-photo-3945682.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 8,
+            "name": "Architecture",
+            "category": "landmarks",
+            "price": 101,
+            "currency": "USD",
+            "dimmentions": {
+                "width": 1020,
+                "height": 1020
+            },
+            "image": {
+                "src": "https://images.pexels.com/photos/3585089/pexels-photo-3585089.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 9,
+            "name": "Red Bench",
+            "category": "people",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/3584956/pexels-photo-3584956.jpeg",
+                "alt": ""
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 10,
+            "name": "Egg Balloon",
+            "category": "food",
+            "price": 93.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/3970330/pexels-photo-3970330.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 11,
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/4312861/pexels-photo-4312861.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 12,
+            "name": "Architecture",
+            "category": "landmarks",
+            "price": 101,
+            "currency": "USD",
+            "dimmentions": {
+                "width": 1020,
+                "height": 1020
+            },
+            "image": {
+                "src": "https://images.pexels.com/photos/712786/pexels-photo-712786.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 13,
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/1005644/pexels-photo-1005644.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 14,
+            "name": "Red Bench",
+            "category": "people",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg",
+                "alt": ""
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 15,
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/355938/pexels-photo-355938.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        },
+        {
+            "id": 19,
+            "name": "Samurai King Restling",
+            "category": "landmarks",
+            "price": 101,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg",
+                "alt": ""
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 1020,
+                    "height": 1020
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "https://images.pexels.com/photos/3585034/pexels-photo-3585034.jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "https://images.pexels.com/photos/3747139/pexels-photo-3747139.jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg",
+                        "alt": ""
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+.filter-sidebar {
+    min-width: 181px;
+    margin: 15px;
+    margin-top: 0;
+    .filter-sidebar__title {
+        font-family: 'Archivo';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 24px;
+        color: #000000;
+        margin: 0;
+    }
+
+    .filter-sidebar__hr {
+        border: 1px solid #C2C2C2;
+        margin-top: 15px;
+        margin-bottom: 25px;
+    }
+
+    .filter-sidebar__sub-title {
+        font-family:  'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        color: #556685;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+
+    .filter-sidebar__btn-apply {
+        margin-top: 25px;
+        width: 122px;
+        height: 34px;
+        left: 0px;
+        top: 0px;
+        background: #5A55AB;
+        border-radius: 100px;
+        outline: none;
+        border: none;
+        cursor: pointer;
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        letter-spacing: 0.1em;
+        color: #FFFFFF;
+        transition: all 0.3s;
+    }
+
+    .filter-sidebar__btn-apply:hover {
+        background: #433f88;
+    }
+}

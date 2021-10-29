@@ -1,0 +1,23 @@
+.checkbox-item {
+    display: inline-flex;
+    cursor: pointer;
+    position: relative;
+    margin: 10px 0;
+
+    label {
+        font-family: 'Archivo';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 2px;
+        color: #1D1D1D;
+        margin: 14px 20px;
+    }
+
+    input {
+        height: 23px;
+        width: 23px;
+        cursor: pointer;
+    }
+
+}

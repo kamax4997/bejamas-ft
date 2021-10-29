@@ -1,0 +1,196 @@
+.feature-block {
+  margin: 40px 15px;
+
+  .feature-block-title {
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 35px;
+    margin: 0;
+  }
+
+  .mobile-add-cart-btn {
+    display: none;
+    width: 100% !important;
+  }
+
+  .feature-add-card-btn {
+    background: #000000;
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 25px;
+    letter-spacing: 0.07em;
+    outline: none;
+    color: #ffffff;
+    padding: 13px 39px;
+    cursor: pointer;
+    transition: all 0.2s;
+    border: 1px solid #000000;
+  }
+
+  .feature-add-card-btn:hover {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  .feature-product-img {
+    margin: 27px 0;
+    width: 100%;
+    min-height: 239px;
+    height: 30vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+    .feature-prodcut-img-content {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      img {
+        height: auto;
+        width: 100%;
+        margin-top: -40%;
+      }
+    }
+
+    .feature-product-img-title {
+      font-family: 'Archivo';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 22px;
+      color: #000000;
+      background-color: #ffffff;
+      width: fit-content;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      padding: 20px 55px;
+    }
+  }
+
+  .feature-product-content {
+    text-align: left;
+    .feature-product-title {
+      font-family: 'Archivo';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 24px;
+      color: #000000;
+      margin-bottom: 0;
+    }
+
+    .feature-product-category {
+      margin: 15px 0;
+      font-family: 'Archivo';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 24px;
+      color: #656565;
+    }
+
+    .feature-product-description {
+      font-family: 'Archivo';
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 150%;
+      color: #656565;
+      max-width: 690px;
+    }
+  }
+
+  .feature-product-details {
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    .feature-product-title {
+      font-family: 'Archivo';
+      font-style: normal;
+      font-weight: bold;
+      font-size: 22px;
+      line-height: 24px;
+      color: #000000;
+      margin-bottom: 0;
+    }
+
+    .feature-product-detail-imgs {
+      margin-top: 30px;
+      justify-content: space-between;
+      .rocommend-img {
+        position: relative;
+        width: 30%;
+        min-height: 122px;
+
+        .rocommend-img-content {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          overflow: hidden;
+          img {
+            width: 100%;
+            min-height: 120px;
+          }
+        }
+      }
+      .margin-x-20 {
+        margin: 0 20px;
+      }
+
+      .feature-product-buy-also-img {
+        width: 30%;
+        max-width: 147px;
+      }
+    }
+
+    .feature-product-details-text {
+      margin-top: 50px;
+
+      .feature-product-details-title {
+        font-family: 'Archivo';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 24px;
+        color: #000000;
+        margin-bottom: 10px;
+      }
+
+      .feature-product-details-size {
+        margin: 5px 0;
+        font-family: 'Archivo';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 150%;
+        color: #656565;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .feature-add-card-btn {
+    display: none;
+  }
+
+  .mobile-add-cart-btn {
+    display: block !important;
+  }
+
+  .feature-product-img-title {
+    font-size: 15px !important;
+  }
+
+  .feature-product-details {
+    justify-content: flex-start !important;
+    text-align: left !important;
+  }
+}
